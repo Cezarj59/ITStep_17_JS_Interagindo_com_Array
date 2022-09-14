@@ -1,5 +1,5 @@
 <h2>Atividade_ITStep_17_JS_Interagindo_com_Array</h2>
-<p>Manipulação do Array utilizando modelo da aula 16.</p>
+<p>Manipulação de Arrays utilizando modelo da aula 16.</p>
 
 <ul><h3>Tópicos</h3>
 <li>JavaScript</li>
